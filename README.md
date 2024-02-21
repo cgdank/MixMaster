@@ -1,6 +1,6 @@
 # MixMaster
 
-<img src='http://christianankney.getenjoyment.net/MixMasterLogo.jpg' alt='Mix Master Logo' width= '200'>
+<img src='https://i.imgur.com/n6BL6uL.jpg' alt='Mix Master Logo' width= '200'>
 
 ## Description
 
